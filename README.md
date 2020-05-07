@@ -16,7 +16,7 @@
 ![img](esp-arduino.png)
 
 #**STEP-4**
---Set the baud rate by uploading the arduino code 
+--Set the baud rate by uploading the arduino code (wifiesp-setbaudrate.ino) 
 
 
 
